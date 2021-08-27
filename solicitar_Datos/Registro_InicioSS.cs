@@ -60,7 +60,7 @@ namespace solicitar_Datos
         //metodo para obtener la ruta del archivo
         private static string getPath()
         {
-            string solici = @"C:\Registro\datos.txt";
+            string solici = @"C:\solicitar_Datos\datosRegis\datos.txt";
             return solici;
         }
 

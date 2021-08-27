@@ -14,7 +14,7 @@ namespace solicitar_Datos
            
         {
            
-            string solici = @"C:\Registro\datos.txt";
+            string solici = @"C:\solicitar_Datos\datosRegis\datos.txt";
 
             //evaluar si el archivo exite
             if (File.Exists(solici))
@@ -37,8 +37,8 @@ namespace solicitar_Datos
                 using (StreamWriter archivo = File.AppendText(solici))
                 {
                     
-                    archivo.WriteLine("Programacion Computacional I");
-                    archivo.WriteLine("Clase teorica | Stream I/O");
+                    archivo.WriteLine("SISTEMA DE REGISTRO DE ESTUDIANTES");
+                    archivo.WriteLine("Tarea semana 5");
                     archivo.Close();
                 }
             }
