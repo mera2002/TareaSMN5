@@ -5,3 +5,7 @@ C:\Users\julissa\source\repos\solicitar_Datos\solicitar_Datos\obj\Debug\solicita
 C:\Users\julissa\source\repos\solicitar_Datos\solicitar_Datos\obj\Debug\solicitar_Datos.csproj.CoreCompileInputs.cache
 C:\Users\julissa\source\repos\solicitar_Datos\solicitar_Datos\obj\Debug\solicitar_Datos.exe
 C:\Users\julissa\source\repos\solicitar_Datos\solicitar_Datos\obj\Debug\solicitar_Datos.pdb
+C:\Seman5Tareas\TareaSMN5\solicitar_Datos\obj\Debug\solicitar_Datos.csprojAssemblyReference.cache
+C:\Seman5Tareas\TareaSMN5\solicitar_Datos\obj\Debug\solicitar_Datos.csproj.CoreCompileInputs.cache
+C:\Seman5Tareas\TareaSMN5\solicitar_Datos\obj\Debug\solicitar_Datos.exe
+C:\Seman5Tareas\TareaSMN5\solicitar_Datos\obj\Debug\solicitar_Datos.pdb
