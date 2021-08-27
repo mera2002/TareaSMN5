@@ -1,0 +1,7 @@
+C:\Users\julissa\source\repos\solicitar_Datos\solicitar_Datos\bin\Debug\solicitar_Datos.exe.config
+C:\Users\julissa\source\repos\solicitar_Datos\solicitar_Datos\bin\Debug\solicitar_Datos.exe
+C:\Users\julissa\source\repos\solicitar_Datos\solicitar_Datos\bin\Debug\solicitar_Datos.pdb
+C:\Users\julissa\source\repos\solicitar_Datos\solicitar_Datos\obj\Debug\solicitar_Datos.csproj.AssemblyReference.cache
+C:\Users\julissa\source\repos\solicitar_Datos\solicitar_Datos\obj\Debug\solicitar_Datos.csproj.CoreCompileInputs.cache
+C:\Users\julissa\source\repos\solicitar_Datos\solicitar_Datos\obj\Debug\solicitar_Datos.exe
+C:\Users\julissa\source\repos\solicitar_Datos\solicitar_Datos\obj\Debug\solicitar_Datos.pdb
